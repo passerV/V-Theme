@@ -3,6 +3,7 @@
     "displayName": "V-Theme",
     "description": "Darkness is coming!",
     "version": "0.0.1",
+    "publisher": "V",
     "engines": {
         "vscode": "^1.65.0"
     },
