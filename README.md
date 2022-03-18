@@ -1,7 +1,5 @@
 # README
 
-## 目前只适配 js
-
 ## __**ante-type  🐛**__
 
 ![](./images/ante-type.png)
