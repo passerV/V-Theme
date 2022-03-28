@@ -2,7 +2,7 @@
     "name": "v-theme",
     "displayName": "V-Theme",
     "description": "Darkness is coming!",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "Vmf",
     "engines": {
         "vscode": "^1.65.0"
