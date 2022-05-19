@@ -2,7 +2,7 @@
     "name": "v-theme",
     "displayName": "V-Theme",
     "description": "Darkness is coming!",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "publisher": "Vmf",
     "engines": {
         "vscode": "^1.65.0"
@@ -51,6 +51,11 @@
                 "label": "v-theme-chaos",
                 "uiTheme": "v-theme-chaos",
                 "path": "./themes/v-theme-chaos.json"
+            },
+            {
+                "label": "v-theme-valentine",
+                "uiTheme": "v-theme-valentine",
+                "path": "./themes/v-theme-valentine.json"
             }
         ]
     }
