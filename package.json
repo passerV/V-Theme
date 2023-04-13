@@ -1,62 +1,62 @@
 {
-    "name": "v-theme",
-    "displayName": "V-Theme",
-    "description": "Darkness is coming!",
-    "version": "0.0.5",
-    "publisher": "Vmf",
-    "engines": {
-        "vscode": "^1.65.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "icon": "icon.JPG",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/valone-1/V-Theme.git"
-    },
-    "contributes": {
-        "themes": [
-            {
-                "label": "v-theme-ante-type",
-                "uiTheme": "v-theme-ante-type",
-                "path": "./themes/v-theme-ante-type.json"
-            },
-            {
-                "label": "v-theme-evolution",
-                "uiTheme": "v-theme-evolution",
-                "path": "./themes/v-theme-evolution.json"
-            },
-            {
-                "label": "v-theme-crown",
-                "uiTheme": "v-theme-crown",
-                "path": "./themes/v-theme-crown.json"
-            },
-            {
-                "label": "v-theme-forest",
-                "uiTheme": "v-theme-forest",
-                "path": "./themes/v-theme-forest.json"
-            },
-            {
-                "label": "v-theme-deep-pink",
-                "uiTheme": "v-theme-deep-pink",
-                "path": "./themes/v-theme-deep-pink.json"
-            },
-            {
-                "label": "v-theme-shallow-pink",
-                "uiTheme": "v-theme-shallow-pink",
-                "path": "./themes/v-theme-shallow-pink.json"
-            },
-            {
-                "label": "v-theme-chaos",
-                "uiTheme": "v-theme-chaos",
-                "path": "./themes/v-theme-chaos.json"
-            },
-            {
-                "label": "v-theme-valentine",
-                "uiTheme": "v-theme-valentine",
-                "path": "./themes/v-theme-valentine.json"
-            }
-        ]
-    }
+  "name": "v-theme",
+  "displayName": "V-Theme",
+  "description": "Darkness is coming!",
+  "version": "0.0.6",
+  "publisher": "Vmf",
+  "engines": {
+    "vscode": "^1.65.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.JPG",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/valone-1/V-Theme.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "v-theme-ante-type",
+        "uiTheme": "v-theme-ante-type",
+        "path": "./themes/v-theme-ante-type.json"
+      },
+      {
+        "label": "v-theme-evolution",
+        "uiTheme": "v-theme-evolution",
+        "path": "./themes/v-theme-evolution.json"
+      },
+      {
+        "label": "v-theme-crown",
+        "uiTheme": "v-theme-crown",
+        "path": "./themes/v-theme-crown.json"
+      },
+      {
+        "label": "v-theme-forest",
+        "uiTheme": "v-theme-forest",
+        "path": "./themes/v-theme-forest.json"
+      },
+      {
+        "label": "v-theme-deep-pink",
+        "uiTheme": "v-theme-deep-pink",
+        "path": "./themes/v-theme-deep-pink.json"
+      },
+      {
+        "label": "v-theme-shallow-pink",
+        "uiTheme": "v-theme-shallow-pink",
+        "path": "./themes/v-theme-shallow-pink.json"
+      },
+      {
+        "label": "v-theme-chaos",
+        "uiTheme": "v-theme-chaos",
+        "path": "./themes/v-theme-chaos.json"
+      },
+      {
+        "label": "v-theme-valentine",
+        "uiTheme": "v-theme-valentine",
+        "path": "./themes/v-theme-valentine.json"
+      }
+    ]
+  }
 }
